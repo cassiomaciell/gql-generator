@@ -29,7 +29,7 @@
 
 ```bash
 # pnpm
-pnpm add @cassiomaciell/gql-generator -G
+pnpm add @cassiomaciell/gql-generator -g
 
 # pnpm
 npm i @cassiomaciell/gql-generator -G
