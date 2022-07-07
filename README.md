@@ -8,13 +8,7 @@
 	<a href="https://www.npmjs.com/package/@cassiomaciell/gql-generator">
 		<img
 			src="https://img.shields.io/npm/v/@cassiomaciell/gql-generator?style=for-the-badge&labelColor=0f0f0f"
-			alt="license"
-		/>
-	</a>
-	<a href="#">
-		<img
-			src="https://img.shields.io/badge/version-1.0.0-%23d527f8?style=for-the-badge&color=DE33A6&labelColor=0f0f0f"
-			alt="license"
+			alt="npm"
 		/>
 	</a>
 	<a href="https://github.com/cassiomaciell/gql-generator/blob/main/LICENSE" target="_blank">
