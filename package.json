@@ -1,6 +1,6 @@
 {
 	"name": "@cassiomaciell/gql-generator",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Automatically generate GraphQL queries and mutations from GraphQL endpoint",
 	"main": "./bin/index.js",
 	"scripts": {
